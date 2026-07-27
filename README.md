@@ -92,7 +92,7 @@ checkpoints/dglmodel/
 
 * **Name:** Saman Zabihi  
 * **Email:** szabihi@hotmail.com 
-* **GitHub:** [https://github.com/zabihis/cMSEDN] (https://github.com/zabihis/cMSEDN))
+* **GitHub:** [https://github.com/zabihis/cMSEDN] (https://github.com/zabihis/cMSEDN)
 
 ---
 
